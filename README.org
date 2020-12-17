@@ -1,0 +1,4 @@
+#+TITLE: Selector
+#+AUTHOR: Yuri Setiantoko <yuri@ruangguru.com>
+
+A core library to select an instance based on weight in datastore.
